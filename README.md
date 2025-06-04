@@ -8,6 +8,8 @@
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-bare/)**
 
+```bundle exec jekyll serve```
+
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-bare/master/LICENSE)
